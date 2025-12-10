@@ -145,34 +145,3 @@ PILHA | ENTRADA | AÇÃO
 
 Permite acompanhar passo a passo.
 
----
-
-# ✔️ **Exemplo de Sucesso**
-
-Entrada:
-
-```
-main() { int x; x = 10; }
-```
-
-Saída:
-
-```
-SUCESSO: CÓDIGO ACEITO
-```
-
----
-
-# ❌ **Exemplo de Erro**
-
-Entrada:
-
-```
-main( { }
-```
-
-Saída:
-
-```
-ERRO SINTÁTICO: Esperado ')', encontrado '{'
-```
